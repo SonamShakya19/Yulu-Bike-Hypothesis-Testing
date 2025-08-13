@@ -20,6 +20,7 @@ The insights aim to help optimize bike availability, improve customer satisfacti
 - **Rows:** ~17,000+
 - **Columns:** Variables covering datetime, season, weather, temperature, humidity, windspeed, casual users, registered users, and total rides.
 - **Format:** CSV
+- **Source:** [Kaggle - Yulu Bike Sharing Dataset](https://www.kaggle.com/datasets/rohanrao/yulu-bike-sharing-dataset)
 
 ---
 
