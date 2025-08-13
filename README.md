@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Mobility Data Analysis Enthusiast | Turning bike-sharing data into actionable urban mobility insights</h3>
 
 <p align="center">
-  <a href="https://colab.research.google.com/drive/1v9YtVb1bZn4dgW-Q4U2b5sEpu9FF6GdD" target="_blank">
+  <a href="https://colab.research.google.com/drive/188QgYqToXI7LlC332byC603nAw0H7y38" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
   </a>
 </p>
